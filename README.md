@@ -23,7 +23,7 @@ Young Cast
 
 ## How it Works ?
 1. Explain the working of the project
-2. Embed a video of the project demo
+2. Embed a video of the project demohttps://www.loom.com/share/0f0f03cc8b8944778e5cf6c1513ec170?sid=989a194c-6f51-4ff5-ac24-16b8644c2137
 
 ## Libraries Used
 Library Name - Version
