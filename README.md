@@ -1,12 +1,14 @@
 <img src="./assets/Banner.jpg" alt="Banner" style="width: 100%;" />
 
 <!-- ![Banner](./assets/banner.gif)  -->
-# Project Name
+# Resource Pool
 Selected project 
 
 **Description**:
 
-Short description about the project
+ Resource.EMEA, your ultimate one-stop resource for students seeking comprehensive study materials, condensed notes, and previous year question papers across various subjects and academic levels. Our platform is dedicated to empowering you with the tools needed to excel in your studies. Whether you're preparing for exams, seeking supplementary learning materials, or aiming to enhance your understanding of specific subjects, Resource.emea provides a curated collection of reliable resources designed to support your academic journey. With our user-friendly interface and 24/7 accessibility, dive into a wealth of educational content that aligns with your learning goals and helps you succeed.
+
+
 
 ## Team Name
 Team name here
