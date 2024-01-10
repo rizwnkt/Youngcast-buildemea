@@ -2,21 +2,24 @@
 
 <!-- ![Banner](./assets/banner.gif)  -->
 # Project Name
-Selected project 
+Resource pool
 
 **Description**:
 
-Short description about the project
+ Resource.EMEA, your ultimate one-stop resource for students seeking comprehensive study materials, condensed notes, and previous year question papers across various subjects and academic levels. Our platform is dedicated to empowering you with the tools needed to excel in your studies. Whether you're preparing for exams, seeking supplementary learning materials, or aiming to enhance your understanding of specific subjects, Resource.emea provides a curated collection of reliable resources designed to support your academic journey. With our user-friendly interface and 24/7 accessibility, dive into a wealth of educational content that aligns with your learning goals and helps you succeed.
 
 ## Team Name
-Team name here
+Young Cast
 
 ## Team Members
-1. Name [Embed personal GitHub URL]
-2. Name [Embed personal GitHub URL]
+1. Rizwan [Embed personal GitHub URL]
+2. Raziya Marzin [Embed personal GitHub URL]
+3. Rinsha [Embed personal GitHub URL]
+2. Shifna [Embed personal GitHub URL]
+2. Nishan [Embed personal GitHub URL]
 
 ## Link to Product Walkthrough
-[Link to video]
+[[Link to video]](https://www.loom.com/share/0f0f03cc8b8944778e5cf6c1513ec170?sid=989a194c-6f51-4ff5-ac24-16b8644c2137 )
 
 ## How it Works ?
 1. Explain the working of the project
