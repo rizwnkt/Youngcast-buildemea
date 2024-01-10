@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us</title>
+    <link rel="stylesheet" href="contactus.css">
+    <script src="https://kit.fontawesome.com/d8be5bd8da.js" crossorigin="anonymous"></script>
+
+    <script type="text/javascript"
+        src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js">
+</script>
+<script src="script.js"></script>
+<script type="text/javascript">
+   (function(){
+      emailjs.init("CHyPQMXCMverawKJE");
+   })();
+</script>
+
+</head>
+<body>
+    <section class="contact">
+        <div class="content">
+            <h2>Contact Us</h2>
+            <p>You can send the resource files (PYQ or short notes).
+                Follow the methods mentioned <br>
+                1. Create a folder in google drive by naming your department. eg; Computer Science <br>
+                2. Upload your files by naming it in the following format "department_semester". eg "Bsc Compuer Science_Semester1"<br>
+                3. change the access of folder into "Anyone with the link". <br>
+                4. Paste the link in "Type your message" section by adding title "Resources-PYQ/Short Notes"
+            </p>
+        </div>
+        <div class="container">
+            <div class="contactInfo">
+                <div class="box">
+                    <div class="icon"><i class="fa fa-map-marker" aria-hidden="true"></i></div>
+                    <div class="text">
+                        <h3>Address</h3>
+                        <p>835 Lester Streets, <br>New Danetteborough, <br>CT 97744-1873</p>
+                    </div>
+               
+            </div>
+                <div class="box">
+                    <div class="icon"><i class="fa fa-envelope" aria-hidden="true"></i></div>
+                    <div class="text">
+                        <h3>Email</h3>
+                        <p>mhdrizwankt@gmail.com</p>
+                    </div>
+                
+            </div>
+            <div class="box">
+                <div class="icon"><i class="fa fa-phone-square" aria-hidden="true"></i></div>
+                <div class="text">
+                    <h3>Phone</h3>
+                    <p>+91 0000000128</p>
+                </div>
+            
+                </div>
+            </div>
+                <div class="contactform">
+                    <form >
+                        <h2>Send Message</h2>
+                        <div class="inputBox">
+                            <input type="text" class="form-control" id="name" required>
+                            <span>Full Name</span>
+                        </div>
+                        <div class="inputBox">
+                            <input type="email" class="form-control" id="email" required >
+                            <span>Email</span>
+                        </div>
+                        <div class="inputBox">
+                            <textarea class="form-control" id="message" required></textarea>
+                            <span>Type Your Message...</span>
+                        </div>
+                        <div class="inputBox">
+                            <button type="submit" class="submitbtn" onclick="sendMail()">send</button>
+                        </div>
+                    </form>
+                </div>
+        </div>
+    </section>
+    
+ 
+</body>
+</html>

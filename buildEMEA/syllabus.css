@@ -1,0 +1,101 @@
+@font-face {
+    font-family: Poppins-Medium;
+    src: url(Fonts/Poppins-Medium.ttf);
+}
+
+@font-face {
+    font-family: Poppins-Bold;
+    src: url(Fonts/Poppins-Bold.ttf);
+}
+
+@font-face {
+    font-family:Poppins-ExtraBold;
+    src: url(Fonts/Poppins-ExtraBold.ttf);
+}
+
+@font-face {
+    font-family:Poppins-Light ;
+    src: url(Fonts/Poppins-Light.ttf);
+}
+
+body{
+    background-image: url(Images/Free\ Vector\ _\ Halftone\ dots\ background\ with\ circles.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+h2{
+    font-size: 3.3rem;
+    font-family: Poppins-ExtraBold;
+    text-align: center;
+    align-items: center;
+    color: aliceblue;
+}
+
+/*Box*/
+
+.dropdown{
+  display: flex;
+  justify-content: center;
+  font-family: Poppins-Medium;
+  position: absolute;
+  width: 90%;
+  margin-bottom: 30px;
+  left: 5.4%;
+  
+  
+  
+}
+
+/*Select Your Stream*/
+.dropdown button{
+    background-color: rgb(192, 192, 192);
+    color: rgb(20, 17, 17);
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+    font-family: Poppins-Medium;
+    border-radius: 3px;
+    
+  
+    
+}
+    
+/*Text inside box*/
+.dropdown a{
+    display: block;
+    color: rgb(199, 127, 127);
+    font-size: 0.9rem;
+    font-family: Poppins-Light;
+    padding: 1.3px 10px;
+    transition: 3s ease;
+    text-align: left;
+    border-radius: 2px;
+}
+
+/*Box after click*/
+.dropdown .content{
+    background-color: rgb(80, 80, 80);
+    margin-top: 40px;
+    position: absolute;
+    box-shadow: 2px 2px 5px black;
+    display: none;
+    text-align: left;
+    font-family: Poppins-Medium ;
+    border-radius: 3px;
+}
+
+
+
+.dropdown:hover .content{
+    display: block;
+    transition: 1s ease;}
+
+   
+.dropdown:hover button{
+    background-color: rgb(88, 88, 88);
+    color: aliceblue;
+}
+
+.dropdown:hover a{
+    color: rgb(248, 248, 248);
+}
