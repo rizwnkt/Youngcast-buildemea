@@ -12,11 +12,11 @@ Resource pool
 Young Cast
 
 ## Team Members
-1. Rizwan [Embed personal GitHub URL]
-2. Raziya Marzin [Embed personal GitHub URL]
-3. Rinsha [Embed personal GitHub URL]
-2. Shifna [Embed personal GitHub URL]
-2. Nishan [Embed personal GitHub URL]
+1. Rizwan [[Embed personal GitHub URL](https://github.com/rizwnkt)]
+2. Raziya Marzin [[Embed personal GitHub URL](https://github.com/marzinraaz29)]
+3. Rinsha [[Embed personal GitHub URL](https://github.com/FathimaRinshaa)]
+2. Shifna [[Embed personal GitHub URL](https://github.com/Shifna196)]
+2. Nishan [[Embed personal GitHub URL](https://github.com/Nishangith)]
 
 ## Link to Product Walkthrough
 [[Link to video]](https://www.loom.com/share/0f0f03cc8b8944778e5cf6c1513ec170?sid=989a194c-6f51-4ff5-ac24-16b8644c2137 )
